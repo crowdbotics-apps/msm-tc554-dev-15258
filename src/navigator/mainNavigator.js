@@ -12,7 +12,6 @@ import BlankScreen316706Navigator from '../features/BlankScreen316706/navigator'
 import BlankScreen216686Navigator from '../features/BlankScreen216686/navigator';
 import BlankScreen116684Navigator from '../features/BlankScreen116684/navigator';
 import BlankScreen116638Navigator from '../features/BlankScreen116638/navigator';
-import BlankScreen016636Navigator from '../features/BlankScreen016636/navigator';
 import BlankScreen016563Navigator from '../features/BlankScreen016563/navigator';
 import BlankScreen016562Navigator from '../features/BlankScreen016562/navigator';
 import BlankScreen016561Navigator from '../features/BlankScreen016561/navigator';
@@ -89,7 +88,6 @@ BlankScreen316706: { screen: BlankScreen316706Navigator },
 BlankScreen216686: { screen: BlankScreen216686Navigator },
 BlankScreen116684: { screen: BlankScreen116684Navigator },
 BlankScreen116638: { screen: BlankScreen116638Navigator },
-BlankScreen016636: { screen: BlankScreen016636Navigator },
 BlankScreen016563: { screen: BlankScreen016563Navigator },
 BlankScreen016562: { screen: BlankScreen016562Navigator },
 BlankScreen016561: { screen: BlankScreen016561Navigator },
